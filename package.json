@@ -1,0 +1,15 @@
+{
+  "name": "electron-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Donald Ballowe",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  }
+}
